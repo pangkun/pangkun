@@ -1,0 +1,16 @@
+a{text-decoration:none}
+a:hover{text-decoration:underline}
+.head{width:100%;heigth:auto;margin:0;font-size:14px}
+.head a{color:#777}
+.head a:hover{color:#777}
+.menu{width:1200px;height:25px;margin:0 auto;background:#1c86ee;font-size:20px}
+.menu a{color:#eee}
+.publish{height: auto}
+#con_1{margin: 0 auto;width:600px;height:140px}
+#payload_1 {margin: 0px 5px auto 0px;width: 450px;height: 100%}
+#title_1 {margin: 0px -100px 90px auto;width: 130px}
+#submit_1 { margin: 0px 0px 0px 0px;width: 60px;height: 20px;border: solid deepskyblue 1px;border-radius:5px}
+ul{height: auto;margin: 0 auto;width: 1100px}
+ul li{height: auto;list-style-type:none;width: 750px;margin: 0 auto}
+ul hr{margin: 0 auto;width: 750px}
+#label{width: 500px;margin: 0 auto;height: auto}

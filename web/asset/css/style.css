@@ -1,0 +1,9 @@
+a{text-decoration:none}
+a:hover{text-decoration:underline}
+
+.head{width:100%;heigth:auto;margin:0;font-size:14px}
+
+.head a{color:#777}
+.head a:hover{color:#777}
+.menu{width:1200px;height:25px;margin:0 auto;background:#1c86ee;font-size:20px}
+.menu a{color:#eee}
